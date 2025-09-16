@@ -9,7 +9,7 @@ https://console.cloud.google.com/
 ### Google Cloud Video 
 https://drive.google.com/file/d/1Us3TFXkfm0VaTrcBnXLNzoxNcZWbXslp/view?usp=drive_link
 
-### Google Cloud Tutorial
+### Google Cloud  Set up Tutorial
 
 #### Step 1
 
@@ -39,10 +39,27 @@ For the purpose of this example we will be selecting a small virtual machine mea
 
 #### Step 6
 
+For Operating system and storage, choose the settings under change and switch the selections to your preference for the vitual machine. 
+Note: there may be two different variants of the same version which uses either arm64 or x86/64 . Compatability varies with machine series. 
+
+For this example we will be selecting Operating system Ubantu version 25.04 with a balanced persistent disk and 10 GB. 
+
 #### Step 7 
 
-#### Step 8 
+On the Data protection page please select and configure your preferred backup plans. You can choose to have a full on back up plan, a snapshop schedule or no back up plan. 
 
+Underneath networking you can choose to set up fire wall and Network performance configuration.
+
+In the security tab you can select identity and API access and configure access scopes to your personal preference. 
+
+#### Step 8 
+ Select create and then give the server a few seconds to a few minutes to fully load your virtual machine. When you see the green checkmark in status on the VM instance page, the VM is now online and ready to use 
+
+#### Deleting your VM
+
+In VM instances select the three dot icon for more actions then select delete. A pop up will come up to confirm if you wish to delect the VM instance. Select Delete and then give the server a few minutes to suspend and delete the VM instance. When the VM has been delected a pop up on the bottom will show up as instance deleted and a notification on the top right will confirm deletion. 
+
+ 
 
 
 
@@ -109,4 +126,4 @@ https://drive.google.com/file/d/1VoNk5yK8lR3kxSSYOisAT549nu0vu-Xb/view?usp=drive
 
 Image in corner right was to authenticate and verify videos to match the icon for this account. 
 
-![ Chiikawa is a character from an online webseries created by Nagano ](image.JPG)
+![ Chiikawa is a character from an online webseries created by Nagano ](image/image.JPG)

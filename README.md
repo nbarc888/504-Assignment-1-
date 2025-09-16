@@ -88,17 +88,43 @@ https://drive.google.com/file/d/1VoNk5yK8lR3kxSSYOisAT549nu0vu-Xb/view?usp=drive
 
 #### Step 1 
 
+Go to https://azure.microsoft.com/en-us/. Click Sign in to Log in or create a new account. 
+
 #### Step 2 
+
+Under Azure services click Virtual Machines to go to the Virtual Machine page. 
 
 #### Step 3
 
+When in the Virtual Machine page click create to start creating a new  virtual machine. Drop down menu will appear giving multiple options for machine types. Click on Virtual machine.  
+
 #### Step 4 
+
+Add in project details such as subscription and resource group. You can chose to create a new resource group. 
+
+Then add in instance details such as machine name. 
 
 #### Step 5
 
+For selecting region, select the closest region to your location. The for zone options keep self-selected zone and select your availability zone. Please note: you are now able to select multiple zones however this will create one VM per zone. 
+
 #### Step 6
 
+For Security type, click the drop down menu to select your preferred security type for your virtual machine. 
+
 #### Step 7 
+
+For Image, please select your operating system for your VM and VM architecture. You may proceed to select size for your VM size in the drop down menu. 
+Please note: Size varies depending on machine settings and cpu count. 
+
+For the purpose of this example, we will be selecting Ubuntu Server 24.04 LTS x64 Gen2 with a 1vcpu, 0.5 GiB memory. 
+
+
+#### Step 8 
+
+
+
+#### Step 9 
 
 
 

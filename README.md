@@ -14,6 +14,6 @@ Below includes links for tutorials on how to create virtual machines for Google 
 
 Image in corner right was to authenticate and verify videos to match the icon for this account. 
 
-![alt text](image-url)
+![ Chiikawa is a character from an online webseries created by Nagano ](image.JPG)
 
 

@@ -5,9 +5,17 @@ Below includes links for tutorials on how to create virtual machines for Google 
 
 ## Google Cloud
 
+https://console.cloud.google.com/ 
+
+### Google Cloud Video 
+https://drive.google.com/file/d/1Us3TFXkfm0VaTrcBnXLNzoxNcZWbXslp/view?usp=drive_link
+
+
 ## Microsoft Azure
+https://azure.microsoft.com/en-us
 
-
+### Microsoft Azure Video
+https://drive.google.com/file/d/1VoNk5yK8lR3kxSSYOisAT549nu0vu-Xb/view?usp=drive_link
 
 
 

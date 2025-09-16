@@ -1,2 +1,19 @@
 # 504-Assignment-1-
-Link for videos for assignment
+
+
+Below includes links for tutorials on how to create virtual machines for Google Cloud and Microsoft Azure 
+
+## Google Cloud
+
+## Microsoft Azure
+
+
+
+
+
+
+Image in corner right was to authenticate and verify videos to match the icon for this account. 
+
+![alt text](image-url)
+
+

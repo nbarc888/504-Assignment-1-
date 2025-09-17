@@ -1,4 +1,4 @@
-# 504-Assignment-1-
+# 504-Assignment 1 - VM tutorial
 
 
 Below includes links for tutorials on how to create virtual machines for Google Cloud and Microsoft Azure 
@@ -72,12 +72,6 @@ In VM instances select the three dot icon for more actions then select delete. A
 
 
 
-
-
-
-
-
-
 ## Microsoft Azure
 https://azure.microsoft.com/en-us
 
@@ -122,37 +116,59 @@ For the purpose of this example, we will be selecting Ubuntu Server 24.04 LTS x6
 
 #### Step 8 
 
+For administrator account, we will be selecting Password as Authentication type. Here you can create a admin username and password for the virtual machine.
 
+For this example we will be setting our username as Dog and Password as Woofwoof123456789
 
 #### Step 9 
 
+For Inbound port rules, you may select on whether your virtual machine allows public inbound ports or none. 
 
+For this example we will select none. 
 
+#### Step 10
 
+For Disks, you may choose your OS settings such as disk size, disk type and key management. 
 
+For this example we will keep OS disk size to Image default with an OS disk type of premium SSD
 
+#### Step 11
 
+For Network, we will be keeping public IP and Public inbound ports to None, and NIC network security group to Basic. 
 
+#### Step 12
 
+After reviewing selections, you may click Review + create and then create to launch your Virtual Machine. It may take a few seconds to minutes for the Virtual machine to be up and running. A pop up may show up as Initializing deployement and then deployment is in progress during launch. Then once deployment is done you will see a green checkmark with Your deployment is complete.
 
+#### Deleting of your VM
 
-
+To delete your virtual machine, click the box next to the name then select the Delete button towards the top. It will then ask you to type delete as confirmation to delete the virtual machine. Then another pop up will show again to reconfirm deletion. Give the server a few seconds to a minute to delete the machine. Eventually you will get a notification which says Executed delete command on 1 selected items 
 
 
 
 # Reflections
+
+Both virtual machine platforms are relatively beginner friendly and easy to deploy. 
+
 ## Similarities
+
+Both platforms have wide availability across mutliple servers and geographical locations. Both platforms also have flexible pricing for server maintenence and uptime. 
+
 ## Differences
+
+Noteable key differences between Google Cloud and Microsoft Azure are as follows: 
+
+| Google Cloud |  Microsoft Azure |
+| ---------- | ----------|
+| Has more region availability | More Zone availability per region |
+| More flexible pricing for Remote work or smaller companies |  More streamlined for business integration with other microsoft products |
+
+
 ## Preference (Google Cloud vs Microsoft Azure) and Why
 
+For a smaller party either individual or small party, Google Cloud seems more prefereable due to friendlier pricing options and more region availability. Microsoft azure locks out the ability to run servers in other continents which may not be favorable.
 
-
-
-
-
-
-
-
+However for medium to larger scale companies, Azure is more preferred due to its streamline ease of use with other microsoft products and wider use in current business operations. 
 
 
 

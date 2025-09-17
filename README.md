@@ -84,19 +84,27 @@ https://drive.google.com/file/d/1VoNk5yK8lR3kxSSYOisAT549nu0vu-Xb/view?usp=drive
 
 Go to https://azure.microsoft.com/en-us/. Click Sign in to Log in or create a new account. 
 
+![azure page](image/Azure_1.JPG)
+
 #### Step 2 
 
 Under Azure services click Virtual Machines to go to the Virtual Machine page. 
 
+![azure vm page](image/Azure_2.JPG)
+
 #### Step 3
 
 When in the Virtual Machine page click create to start creating a new  virtual machine. Drop down menu will appear giving multiple options for machine types. Click on Virtual machine.  
+
+![Azure create vm](image/Azure_3.JPG)
 
 #### Step 4 
 
 Add in project details such as subscription and resource group. You can chose to create a new resource group. 
 
 Then add in instance details such as machine name. 
+
+![Azure create vm page](image/Azure_4.JPG) 
 
 #### Step 5
 
